@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4b391ad-2345-4693-aa25-1360a9cdcb1d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lap1/Lap1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPver2.iml" afterDir="false" />
+    <list default="true" id="c4b391ad-2345-4693-aa25-1360a9cdcb1d" name="Changes" comment="lap1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,48 +47,49 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AverageWithInputValidation">
-    <configuration name="AverageWithInputValidation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AverageWithInputValidation" />
-      <module name="Lap1" />
+  <component name="RunManager" selected="Application.Reverse">
+    <configuration name="Contains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contains" />
+      <module name="Lap2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExtractDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExtractDigits" />
-      <module name="Lap1" />
+    <configuration name="Equals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Equals" />
+      <module name="Lap2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputValidation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InputValidation" />
-      <module name="Lap1" />
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reverse" />
+      <module name="Lap2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseIn" />
-      <module name="Lap1" />
+    <configuration name="Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Search" />
+      <module name="Lap2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrigonometricSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TrigonometricSeries" />
-      <module name="Lap1" />
+    <configuration name="Swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Swap" />
+      <module name="Lap2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AverageWithInputValidation" />
-        <item itemvalue="Application.InputValidation" />
-        <item itemvalue="Application.ExtractDigits" />
-        <item itemvalue="Application.TrigonometricSeries" />
+        <item itemvalue="Application.Reverse" />
+        <item itemvalue="Application.Swap" />
+        <item itemvalue="Application.Equalsss" />
+        <item itemvalue="Application.Search" />
+        <item itemvalue="Application.Contains" />
       </list>
     </recent_temporary>
   </component>
@@ -109,10 +105,24 @@
       <workItem from="1695225077650" duration="619000" />
       <workItem from="1695309622882" duration="214000" />
       <workItem from="1695782984847" duration="7253000" />
+      <workItem from="1695810037146" duration="4237000" />
+      <workItem from="1695821045353" duration="9687000" />
     </task>
+    <task id="LOCAL-00001" summary="lap1">
+      <created>1695810272912</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695810272912</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lap1" />
+    <option name="LAST_COMMIT_MESSAGE" value="lap1" />
   </component>
 </project>
