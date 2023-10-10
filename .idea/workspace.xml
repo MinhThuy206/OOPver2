@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4b391ad-2345-4693-aa25-1360a9cdcb1d" name="Changes" comment="lap1">
+    <list default="true" id="c4b391ad-2345-4693-aa25-1360a9cdcb1d" name="Changes" comment="lap3">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,49 +48,49 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Reverse">
-    <configuration name="Contains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Contains" />
-      <module name="Lap2" />
+  <component name="RunManager" selected="Application.WordGuess">
+    <configuration name="FactorialInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FactorialInt" />
+      <module name="HW3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Equals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Equals" />
-      <module name="Lap2" />
+    <configuration name="FibonacciInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FibonacciInt" />
+      <module name="HW3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Reverse" />
-      <module name="Lap2" />
+    <configuration name="GradesStatistics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GradesStatistics" />
+      <module name="HW3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Search" />
-      <module name="Lap2" />
+    <configuration name="NumberGuess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberGuess" />
+      <module name="HW3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Swap" />
-      <module name="Lap2" />
+    <configuration name="WordGuess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordGuess" />
+      <module name="HW3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Reverse" />
-        <item itemvalue="Application.Swap" />
-        <item itemvalue="Application.Equalsss" />
-        <item itemvalue="Application.Search" />
-        <item itemvalue="Application.Contains" />
+        <item itemvalue="Application.WordGuess" />
+        <item itemvalue="Application.FibonacciInt" />
+        <item itemvalue="Application.FactorialInt" />
+        <item itemvalue="Application.NumberGuess" />
+        <item itemvalue="Application.GradesStatistics" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +107,16 @@
       <workItem from="1695309622882" duration="214000" />
       <workItem from="1695782984847" duration="7253000" />
       <workItem from="1695810037146" duration="4237000" />
-      <workItem from="1695821045353" duration="9687000" />
+      <workItem from="1695821045353" duration="10289000" />
+      <workItem from="1695903133561" duration="46000" />
+      <workItem from="1696387222649" duration="7615000" />
+      <workItem from="1696413301292" duration="12097000" />
+      <workItem from="1696430720994" duration="3273000" />
+      <workItem from="1696854280205" duration="1703000" />
+      <workItem from="1696866401930" duration="4600000" />
+      <workItem from="1696911996736" duration="2343000" />
+      <workItem from="1696934534926" duration="5646000" />
+      <workItem from="1696948306170" duration="5121000" />
     </task>
     <task id="LOCAL-00001" summary="lap1">
       <created>1695810272912</created>
@@ -115,7 +125,28 @@
       <option name="project" value="LOCAL" />
       <updated>1695810272912</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lap2">
+      <created>1695831464118</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695831464118</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lap2">
+      <created>1695831567117</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695831567117</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lap3">
+      <created>1696434156169</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696434156169</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +154,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lap1" />
-    <option name="LAST_COMMIT_MESSAGE" value="lap1" />
+    <MESSAGE value="lap2" />
+    <MESSAGE value="lap3" />
+    <option name="LAST_COMMIT_MESSAGE" value="lap3" />
   </component>
 </project>
