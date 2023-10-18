@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4b391ad-2345-4693-aa25-1360a9cdcb1d" name="Changes" comment="HW3">
+    <list default="true" id="c4b391ad-2345-4693-aa25-1360a9cdcb1d" name="Changes" comment="update lap3">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -51,13 +51,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestMyRectangle">
-    <configuration name="TestMyCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex2.mypoint.TestMyCircle" />
-      <module name="lap4" />
+  <component name="RunManager" selected="Application.TestPoint">
+    <configuration name="TestPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part2.line.TestPoint" />
+      <module name="Lap5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex2.mypoint.*" />
+          <option name="PATTERN" value="part2.line.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMyLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex2.mypoint.TestMyLine" />
-      <module name="lap4" />
+    <configuration name="part1.animal.TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part1.animal.TestMain" />
+      <module name="Lap5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex2.mypoint.*" />
+          <option name="PATTERN" value="part1.animal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMyPoints" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex2.mypoint.TestMyPoints" />
-      <module name="lap4" />
+    <configuration name="part1.person.TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part1.person.TestMain" />
+      <module name="Lap5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex2.mypoint.*" />
+          <option name="PATTERN" value="part1.person.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMyRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex2.mypoint.TestMyRectangle" />
-      <module name="lap4" />
+    <configuration name="part1.point.TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part1.point.TestMain" />
+      <module name="Lap5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex2.mypoint.*" />
+          <option name="PATTERN" value="part1.point.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMyTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex2.mypoint.TestMyTriangle" />
-      <module name="lap4" />
+    <configuration name="part1.shape.TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part1.shape.TestMain" />
+      <module name="Lap5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex2.mypoint.*" />
+          <option name="PATTERN" value="part1.shape.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestMyRectangle" />
-        <item itemvalue="Application.TestMyTriangle" />
-        <item itemvalue="Application.TestMyCircle" />
-        <item itemvalue="Application.TestMyLine" />
-        <item itemvalue="Application.TestMyPoints" />
+        <item itemvalue="Application.TestPoint" />
+        <item itemvalue="Application.part1.animal.TestMain" />
+        <item itemvalue="Application.part1.shape.TestMain" />
+        <item itemvalue="Application.part1.point.TestMain" />
+        <item itemvalue="Application.part1.person.TestMain" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +153,9 @@
       <workItem from="1696991986037" duration="7822000" />
       <workItem from="1697006828287" duration="786000" />
       <workItem from="1697019476939" duration="6661000" />
-      <workItem from="1697031709084" duration="9925000" />
+      <workItem from="1697031709084" duration="10341000" />
+      <workItem from="1697592300899" duration="2170000" />
+      <workItem from="1697597451136" duration="7531000" />
     </task>
     <task id="LOCAL-00001" summary="lap1">
       <created>1695810272912</created>
@@ -190,7 +192,28 @@
       <option name="project" value="LOCAL" />
       <updated>1696954501920</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="lap4">
+      <created>1697043086470</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697043086470</updated>
+    </task>
+    <task id="LOCAL-00007" summary="lap4">
+      <created>1697043280763</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697043280763</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update lap3">
+      <created>1697043355279</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1697043355279</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +224,19 @@
     <MESSAGE value="lap2" />
     <MESSAGE value="lap3" />
     <MESSAGE value="HW3" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW3" />
+    <MESSAGE value="lap4" />
+    <MESSAGE value="update lap3" />
+    <option name="LAST_COMMIT_MESSAGE" value="update lap3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lap5/src/part1/shape/Square.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
